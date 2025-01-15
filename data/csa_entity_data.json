@@ -1,0 +1,96 @@
+[
+    {
+        "text": "Can you track my package with ID #12345?",
+        "entities": [
+            {
+                "start": 33,
+                "end": 39,
+                "label": "order_id"
+            }
+        ]
+    },
+    {
+        "text": "Track package for order #67890.",
+        "entities": [
+            {
+                "start": 24,
+                "end": 30,
+                "label": "order_id"
+            }
+        ]
+    },
+    {
+        "text": "What is the return policy for electronics?",
+        "entities": [
+            {
+                "start": 30,
+                "end": 41,
+                "label": "product_category"
+            }
+        ]
+    },
+    {
+        "text": "How do I return a book I purchased?",
+        "entities": [
+            {
+                "start": 18,
+                "end": 22,
+                "label": "product_category"
+            }
+        ]
+    },
+    {
+        "text": "Tell me about Amazon Prime subscription.",
+        "entities": [
+            {
+                "start": 14,
+                "end": 26,
+                "label": "product_name"
+            }
+        ]
+    },
+    {
+        "text": "I want details about Amazon Prime benefits.",
+        "entities": [
+            {
+                "start": 21,
+                "end": 33,
+                "label": "product_name"
+            }
+        ]
+    },
+    {
+        "text": "I want to update my email to newemail@example.com.",
+        "entities": [
+            {
+                "start": 29,
+                "end": 49,
+                "label": "email"
+            }
+        ]
+    },
+    {
+        "text": "I want to Update my phone number",
+        "entities": [
+            {
+                "start": 26,
+                "end": 38,
+                "label": "phone_number"
+            }
+        ]
+    },
+    {
+        "text": "Reset my password. My username is john_doe.",
+        "entities": [
+            {
+                "start": 34,
+                "end": 42,
+                "label": "username"
+            }
+        ]
+    },
+    {
+        "text": "How Can I update my Password?.",
+        "entities": []
+    }
+]

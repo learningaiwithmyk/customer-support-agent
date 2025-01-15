@@ -1,0 +1,103 @@
+[
+    {
+        "text": "Can you track my package with ID #12345?",
+        "intent": {
+            "track_package": 1.0,
+            "return_policy": 0.0,
+            "product_info": 0.0,
+            "update_contact_info": 0.0,
+            "update_password": 0.0
+        }
+    },
+    {
+        "text": "Track package for order #67890.",
+        "intent": {
+            "track_package": 1.0,
+            "return_policy": 0.0,
+            "product_info": 0.0,
+            "update_contact_info": 0.0,
+            "update_password": 0.0
+        }
+    },
+    {
+        "text": "What is the return policy for electronics?",
+        "intent": {
+            "track_package": 0.0,
+            "return_policy": 1.0,
+            "product_info": 0.0,
+            "update_contact_info": 0.0,
+            "update_password": 0.0
+        }
+    },
+    {
+        "text": "How do I return a book I purchased?",
+        "intent": {
+            "track_package": 0.0,
+            "return_policy": 1.0,
+            "product_info": 0.0,
+            "update_contact_info": 0.0,
+            "update_password": 0.0
+        }
+    },
+    {
+        "text": "Tell me about Amazon Prime subscription.",
+        "intent": {
+            "track_package": 0.0,
+            "return_policy": 0.0,
+            "product_info": 1.0,
+            "update_contact_info": 0.0,
+            "update_password": 0.0
+        }
+    },
+    {
+        "text": "I want details about Amazon Prime benefits.",
+        "intent": {
+            "track_package": 0.0,
+            "return_policy": 0.0,
+            "product_info": 1.0,
+            "update_contact_info": 0.0,
+            "update_password": 0.0
+        }
+    },
+    {
+        "text": "I want to update my email to newemail@example.com.",
+        "intent": {
+            "track_package": 0.0,
+            "return_policy": 0.0,
+            "product_info": 0.0,
+            "update_contact_info": 1.0,
+            "update_password": 0.0
+        }
+    },
+    {
+        "text": "Update my phone number to 123-456-7890.",
+        "intent": {
+            "track_package": 0.0,
+            "return_policy": 0.0,
+            "product_info": 0.0,
+            "update_contact_info": 1.0,
+            "update_password": 0.0
+        }
+    },
+    {
+        "text": "Reset my password. My username is john_doe.",
+        "intent": {
+            "track_package": 0.0,
+            "return_policy": 0.0,
+            "product_info": 0.0,
+            "update_contact_info": 0.0,
+            "update_password": 1.0
+        }
+    },
+    {
+        "text": "How Can I update my Password?.",
+        "intent": {
+            "track_package": 0.0,
+            "return_policy": 0.0,
+            "product_info": 0.0,
+            "update_contact_info": 0.0,
+            "update_password": 1.0
+        }
+    }
+]
+
