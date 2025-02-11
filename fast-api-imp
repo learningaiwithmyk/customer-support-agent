@@ -1,0 +1,33 @@
+FAST-API Implementation Steps:
+    #1 Fast API Folder structure creation
+    #2 Create .env file and add DB information
+    #3 Create DB Config class
+    #4 Create Intent Service class to identify Intent
+    #5 Create Entity Service class to identify entities
+    #6 Create Service classes for all below services
+        - track_package: Handle package tracking requests.
+        - return_policy: Provide return policy information.
+        - product_info: Handle product inquiries.
+        - update_contact_info: Update user contact information in the database.
+        - update_password: Facilitate secure password updates.
+
+    #7 Create POST Endpoint to connect all these services:
+          Implement a router to handle requests and direct them to the appropriate service based on the identified intent.
+    #8 Add API Endpoint details in Main file-In the main.py, include your API routes
+
+Server Details:
+    Uvicorn server  (pip install uvicorn)
+    host:127.0.0.1
+    port:8000
+
+API Testing Tool: Postman
+
+
+"""
+user_context={
+                            "123":{
+                                            "pending_intent":"track_package",
+                                            "required_field":"order_id"
+                                     }
+                        }
+"""
