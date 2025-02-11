@@ -1,0 +1,294 @@
+[
+{
+    "text": "Can you track my package with ID #12345?",
+    "entities": [
+      {
+        "start": 33,
+        "end": 39,
+        "label": "order_id"
+      }
+    ]
+  },
+  {
+    "text": "Track package for order #67890.",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "order_id"
+      }
+    ]
+  },
+  {
+    "text": "What is the current status of my package?",
+    "entities": []
+  },
+  {
+    "text": "Package status for ID #12336?",
+    "entities": [
+      {
+        "start": 22,
+        "end": 38,
+        "label": "order_id"
+      }
+    ]
+  },
+  {
+    "text": "Find the status of order #33366?",
+    "entities": [
+      {
+        "start": 25,
+        "end": 31,
+        "label": "order_id"
+      }
+    ]
+  },
+  {
+    "text": "What is the latest status of my package?",
+    "entities": []
+  },
+  {
+    "text": "Please share my order status.",
+    "entities": []
+  },
+  {
+    "text": "Can you check if my package has arrived?",
+    "entities": []
+  },
+  {
+    "text": "What is the return policy for electronics?",
+    "entities": [
+      {
+        "start": 30,
+        "end": 41,
+        "label": "product_category"
+      }
+    ]
+  },
+  {
+    "text": "How do I return a book I purchased?",
+    "entities": [
+      {
+        "start": 18,
+        "end": 22,
+        "label": "product_category"
+      }
+    ]
+  },
+  {
+    "text": "Can you provide return policy details?",
+    "entities": []
+  },
+  {
+    "text": "If the size doesn't fit, can I return the shirt?",
+    "entities": []
+  },
+  {
+    "text": "What is the return policy for costumes?",
+    "entities": []
+  },
+  {
+    "text": "How can I return the shoes I recently bought?",
+    "entities": [
+      {
+        "start": 21,
+        "end": 26,
+        "label": "product_category"
+      }
+    ]
+  },
+  {
+    "text": "What is the return policy for a damaged product?",
+    "entities": []
+  },
+  {
+    "text": "Within how many days can I return a product?",
+    "entities": []
+  },
+  {
+    "text": "Tell me about Amazon Prime subscription.",
+    "entities": [
+      {
+        "start": 14,
+        "end": 26,
+        "label": "product_name"
+      }
+    ]
+  },
+  {
+    "text": "I want details about Amazon Prime benefits.",
+    "entities": [
+      {
+        "start": 21,
+        "end": 33,
+        "label": "product_name"
+      }
+    ]
+  },
+  {
+    "text": "What is Amazon Prime?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 20,
+        "label": "product_name"
+      }
+    ]
+  },
+  {
+    "text": "Can you tell me about Amazon Prime?",
+    "entities": [
+      {
+        "start": 22,
+        "end": 34,
+        "label": "product_name"
+      }
+    ]
+  },
+  {
+    "text": "How can I buy Alexa?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 19,
+        "label": "product_name"
+      }
+    ]
+  },
+  {
+    "text": "What is the cost of Alexa?",
+    "entities": [
+      {
+        "start": 20,
+        "end": 25,
+        "label": "product_name"
+      }
+    ]
+  },
+  {
+    "text": "Can you tell me about Alexa?",
+    "entities": [
+      {
+        "start": 22,
+        "end": 27,
+        "label": "product_name"
+      }
+    ]
+  },
+  {
+    "text": "What do I need to know about Alexa?",
+    "entities": [
+      {
+        "start": 29,
+        "end": 34,
+        "label": "product_name"
+      }
+    ]
+  },
+  {
+    "text": "I want to update my email to myemail@gmail.com",
+    "entities": [
+      {
+        "start": 29,
+        "end": 46,
+        "label": "user_email"
+      }
+    ]
+  },
+  {
+    "text": "How can I update my email to srisri@outlook.com?",
+    "entities": [
+      {
+        "start": 29,
+        "end": 47,
+        "label": "user_email"
+      }
+    ]
+  },
+  {
+    "text": "Can you update my email address to kumar599@hotmail.com?",
+    "entities": [
+      {
+        "start": 35,
+        "end": 55,
+        "label": "user_email"
+      }
+    ]
+  },
+  {
+    "text": "Please update my email.",
+    "entities": []
+  },
+  {
+    "text": "Please update my phone number to 1234567890.",
+    "entities": [
+      {
+        "start": 33,
+        "end": 43,
+        "label": "user_phone"
+      }
+    ]
+  },
+  {
+    "text": "How can I update my phone number?",
+    "entities": []
+  },
+  {
+    "text": "How can update my number to 9912345678.",
+    "entities": [
+      {
+        "start": 28,
+        "end": 38,
+        "label": "user_phone"
+      }
+    ]
+  },
+  {
+    "text": "update my phone to 7889100022.",
+    "entities": [
+      {
+        "start": 19,
+        "end": 29,
+        "label": "user_phone"
+      }
+    ]
+  },
+  {
+    "text": "Reset my password. My username is john_doe.",
+    "entities": [
+      {
+        "start": 34,
+        "end": 42,
+        "label": "username"
+      }
+    ]
+  },
+  {
+    "text": "How Can I update my Password?.",
+    "entities": []
+  },
+  {
+    "text": "I forgot my password. Please help me reset it.",
+    "entities": []
+  },
+  {
+    "text": "Can I change my password from the settings page?",
+    "entities": []
+  },
+  {
+    "text": "Help me reset my password for my account.",
+    "entities": []
+  },
+  {
+    "text": "I need to update my password, please guide me.",
+    "entities": []
+  },
+  {
+    "text": "I want password reset process.",
+    "entities": []
+  },
+  {
+    "text": "I forgot my login password.",
+    "entities": []
+  }
+]

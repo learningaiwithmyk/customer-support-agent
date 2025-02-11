@@ -1,0 +1,102 @@
+[
+  {
+    "text": "I want to know the status of my package with ID #11223.",
+    "intent": {
+      "track_package": 1.0,
+      "return_policy": 0.0,
+      "product_info": 0.0,
+      "update_contact_info": 0.0,
+      "update_password": 0.0
+    }
+  },
+  {
+    "text": "Has my order been delivered?",
+    "intent": {
+      "track_package": 1.0,
+      "return_policy": 0.0,
+      "product_info": 0.0,
+      "update_contact_info": 0.0,
+      "update_password": 0.0
+    }
+  },
+  {
+    "text": "What is the return policy for chocolates?",
+    "intent": {
+      "track_package": 0.0,
+      "return_policy": 1.0,
+      "product_info": 0.0,
+      "update_contact_info": 0.0,
+      "update_password": 0.0
+    }
+  },
+  {
+    "text": "Can I return a product within 30 days?",
+    "intent": {
+      "track_package": 0.0,
+      "return_policy": 1.0,
+      "product_info": 0.0,
+      "update_contact_info": 0.0,
+      "update_password": 0.0
+    }
+  },
+  {
+    "text": "How much does Amazon Prime cost?",
+    "intent": {
+      "track_package": 0.0,
+      "return_policy": 0.0,
+      "product_info": 1.0,
+      "update_contact_info": 0.0,
+      "update_password": 0.0
+    }
+  },
+  {
+    "text": "What is Alexa?",
+    "intent": {
+      "track_package": 0.0,
+      "return_policy": 0.0,
+      "product_info": 1.0,
+      "update_contact_info": 0.0,
+      "update_password": 0.0
+    }
+  },
+  {
+    "text": "Please update my email.",
+    "intent": {
+      "track_package": 0.0,
+      "return_policy": 0.0,
+      "product_info": 0.0,
+      "update_contact_info": 1.0,
+      "update_password": 0.0
+    }
+  },
+  {
+    "text": "Update my phone number to 123-456-7890.",
+    "intent": {
+      "track_package": 0.0,
+      "return_policy": 0.0,
+      "product_info": 0.0,
+      "update_contact_info": 1.0,
+      "update_password": 0.0
+    }
+  },
+  {
+    "text": "Reset my password, my email is user@example.com.",
+    "intent": {
+      "track_package": 0.0,
+      "return_policy": 0.0,
+      "product_info": 0.0,
+      "update_contact_info": 0.0,
+      "update_password": 1.0
+    }
+  },
+  {
+    "text": "Can I change my password from the settings page?",
+    "intent": {
+      "track_package": 0.0,
+      "return_policy": 0.0,
+      "product_info": 0.0,
+      "update_contact_info": 0.0,
+      "update_password": 1.0
+    }
+  }
+]

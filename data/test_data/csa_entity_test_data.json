@@ -1,0 +1,104 @@
+[
+  {
+    "text": "I want to know the status of my package with ID #11223.",
+    "entities": [
+      {
+        "start": 48,
+        "end": 54,
+        "label": "order_id"
+      }
+    ]
+  },
+  {
+    "text": "How do I return a book I purchased?",
+    "entities": [
+      {
+        "start": 18,
+        "end": 22,
+        "label": "product_category"
+      }
+    ]
+  },
+  {
+    "text": "What is the return policy for chocolates?",
+    "entities": [
+      {
+        "start": 30,
+        "end": 40,
+        "label": "product_category"
+      }
+    ]
+  },
+  {
+    "text": "Can I return a product within 30 days?",
+    "entities": []
+  },
+  {
+    "text": "How much does Amazon Prime cost?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 26,
+        "label": "product_name"
+      }
+    ]
+  },
+  {
+    "text": "What is Alexa?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 13,
+        "label": "product_name"
+      }
+    ]
+  },
+  {
+    "text": "Can you tell me about Alexa?",
+    "entities": [
+      {
+        "start": 22,
+        "end": 27,
+        "label": "product_name"
+      }
+    ]
+  },
+  {
+    "text": "Please update my email address.",
+    "entities": []
+  },
+  {
+    "text": "Update my phone number to 123-456-7890.",
+    "entities": [
+      {
+        "start": 26,
+        "end": 38,
+        "label": "user_phone"
+      }
+    ]
+  },
+  {
+    "text": "How can update my number to 9912345678.",
+    "entities": [
+      {
+        "start": 28,
+        "end": 38,
+        "label": "user_phone"
+      }
+    ]
+  },
+  {
+    "text": "I want to update my password for my account.",
+    "entities": []
+  },
+  {
+    "text": "Reset my password, my email is user@example.com.",
+    "entities": [
+      {
+        "start": 31,
+        "end": 47,
+        "label": "username"
+      }
+    ]
+  }
+]

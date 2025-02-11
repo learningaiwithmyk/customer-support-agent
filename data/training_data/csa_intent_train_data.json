@@ -1,0 +1,403 @@
+[
+  {
+    "text": "Can you track my package with ID #12345?",
+    "intent": {
+      "track_package": 1.0,
+      "return_policy": 0.0,
+      "product_info": 0.0,
+      "update_contact_info": 0.0,
+      "update_password": 0.0
+    }
+  },
+  {
+    "text": "Track the package for order #67890.",
+    "intent": {
+      "track_package": 1.0,
+      "return_policy": 0.0,
+      "product_info": 0.0,
+      "update_contact_info": 0.0,
+      "update_password": 0.0
+    }
+  },
+  {
+    "text": "What is the current status of my package?",
+    "intent": {
+      "track_package": 1.0,
+      "return_policy": 0.0,
+      "product_info": 0.0,
+      "update_contact_info": 0.0,
+      "update_password": 0.0
+    }
+  },
+  {
+    "text": "Package status for ID #12336?",
+    "intent": {
+      "track_package": 1.0,
+      "return_policy": 0.0,
+      "product_info": 0.0,
+      "update_contact_info": 0.0,
+      "update_password": 0.0
+    }
+  },
+  {
+    "text": "Find the status of order #33366?",
+    "intent": {
+      "track_package": 1.0,
+      "return_policy": 0.0,
+      "product_info": 0.0,
+      "update_contact_info": 0.0,
+      "update_password": 0.0
+    }
+  },
+  {
+    "text": "What is the latest status of my package?",
+    "intent": {
+      "track_package": 1.0,
+      "return_policy": 0.0,
+      "product_info": 0.0,
+      "update_contact_info": 0.0,
+      "update_password": 0.0
+    }
+  },
+  {
+    "text": "Please share my order status.",
+    "intent": {
+      "track_package": 1.0,
+      "return_policy": 0.0,
+      "product_info": 0.0,
+      "update_contact_info": 0.0,
+      "update_password": 0.0
+    }
+  },
+  {
+    "text": "Can you check if my package has arrived?",
+    "intent": {
+      "track_package": 1.0,
+      "return_policy": 0.0,
+      "product_info": 0.0,
+      "update_contact_info": 0.0,
+      "update_password": 0.0
+    }
+  },
+  {
+    "text": "What is the return policy for electronics?",
+    "intent": {
+      "track_package": 0.0,
+      "return_policy": 1.0,
+      "product_info": 0.0,
+      "update_contact_info": 0.0,
+      "update_password": 0.0
+    }
+  },
+  {
+    "text": "How do I return a book I purchased?",
+    "intent": {
+      "track_package": 0.0,
+      "return_policy": 1.0,
+      "product_info": 0.0,
+      "update_contact_info": 0.0,
+      "update_password": 0.0
+    }
+  },
+  {
+    "text": "Can you provide return policy details?",
+    "intent": {
+      "track_package": 0.0,
+      "return_policy": 1.0,
+      "product_info": 0.0,
+      "update_contact_info": 0.0,
+      "update_password": 0.0
+    }
+  },
+  {
+    "text": "If the size doesn't fit, can I return the shirt?",
+    "intent": {
+      "track_package": 0.0,
+      "return_policy": 1.0,
+      "product_info": 0.0,
+      "update_contact_info": 0.0,
+      "update_password": 0.0
+    }
+  },
+  {
+    "text": "What is the return policy for costumes?",
+    "intent": {
+      "track_package": 0.0,
+      "return_policy": 1.0,
+      "product_info": 0.0,
+      "update_contact_info": 0.0,
+      "update_password": 0.0
+    }
+  },
+  {
+    "text": "How can I return the shoes I recently bought?",
+    "intent": {
+      "track_package": 0.0,
+      "return_policy": 1.0,
+      "product_info": 0.0,
+      "update_contact_info": 0.0,
+      "update_password": 0.0
+    }
+  },
+  {
+    "text": "What is the return policy for a damaged product?",
+    "intent": {
+      "track_package": 0.0,
+      "return_policy": 1.0,
+      "product_info": 0.0,
+      "update_contact_info": 0.0,
+      "update_password": 0.0
+    }
+  },
+  {
+    "text": "Within how many days can I return a product?",
+    "intent": {
+      "track_package": 0.0,
+      "return_policy": 1.0,
+      "product_info": 0.0,
+      "update_contact_info": 0.0,
+      "update_password": 0.0
+    }
+  },
+  {
+    "text": "Tell me about the Amazon Prime subscription.",
+    "intent": {
+      "track_package": 0.0,
+      "return_policy": 0.0,
+      "product_info": 1.0,
+      "update_contact_info": 0.0,
+      "update_password": 0.0
+    }
+  },
+  {
+    "text": "I want details about Amazon Prime benefits.",
+    "intent": {
+      "track_package": 0.0,
+      "return_policy": 0.0,
+      "product_info": 1.0,
+      "update_contact_info": 0.0,
+      "update_password": 0.0
+    }
+  },
+  {
+    "text": "What is Amazon Prime?",
+    "intent": {
+      "track_package": 0.0,
+      "return_policy": 0.0,
+      "product_info": 1.0,
+      "update_contact_info": 0.0,
+      "update_password": 0.0
+    }
+  },
+  {
+    "text": "Can you tell me about Amazon Prime?",
+    "intent": {
+      "track_package": 0.0,
+      "return_policy": 0.0,
+      "product_info": 1.0,
+      "update_contact_info": 0.0,
+      "update_password": 0.0
+    }
+  },
+  {
+    "text": "How can I buy Alexa?",
+    "intent": {
+      "track_package": 0.0,
+      "return_policy": 0.0,
+      "product_info": 1.0,
+      "update_contact_info": 0.0,
+      "update_password": 0.0
+    }
+  },
+  {
+    "text": "What is the cost of Alexa?",
+    "intent": {
+      "track_package": 0.0,
+      "return_policy": 0.0,
+      "product_info": 1.0,
+      "update_contact_info": 0.0,
+      "update_password": 0.0
+    }
+  },
+  {
+    "text": "Can you tell me about Alexa?",
+    "intent": {
+      "track_package": 0.0,
+      "return_policy": 0.0,
+      "product_info": 1.0,
+      "update_contact_info": 0.0,
+      "update_password": 0.0
+    }
+  },
+  {
+    "text": "What do I need to know about Alexa?",
+    "intent": {
+      "track_package": 0.0,
+      "return_policy": 0.0,
+      "product_info": 1.0,
+      "update_contact_info": 0.0,
+      "update_password": 0.0
+    }
+  },
+  {
+    "text": "I want to update my email to myemail@gmail.com.",
+    "intent": {
+      "track_package": 0.0,
+      "return_policy": 0.0,
+      "product_info": 0.0,
+      "update_contact_info": 1.0,
+      "update_password": 0.0
+    }
+  },
+  {
+    "text": "How can I update my email to srisri@outlook.com?",
+    "intent": {
+      "track_package": 0.0,
+      "return_policy": 0.0,
+      "product_info": 0.0,
+      "update_contact_info": 1.0,
+      "update_password": 0.0
+    }
+  },
+  {
+    "text": "Please update my email address.",
+    "intent": {
+      "track_package": 0.0,
+      "return_policy": 0.0,
+      "product_info": 0.0,
+      "update_contact_info": 1.0,
+      "update_password": 0.0
+    }
+  },
+  {
+    "text": "Can you update my email address to kumar599@hotmail.com?",
+    "intent": {
+      "track_package": 0.0,
+      "return_policy": 0.0,
+      "product_info": 0.0,
+      "update_contact_info": 1.0,
+      "update_password": 0.0
+    }
+  },
+  {
+    "text": "Please update my phone number to 1234567890.",
+    "intent": {
+      "track_package": 0.0,
+      "return_policy": 0.0,
+      "product_info": 0.0,
+      "update_contact_info": 1.0,
+      "update_password": 0.0
+    }
+  },
+  {
+    "text": "How can I update my phone number?",
+    "intent": {
+      "track_package": 0.0,
+      "return_policy": 0.0,
+      "product_info": 0.0,
+      "update_contact_info": 1.0,
+      "update_password": 0.0
+    }
+  },
+  {
+    "text": "How can update my number to 9912345678.",
+    "intent": {
+      "track_package": 0.0,
+      "return_policy": 0.0,
+      "product_info": 0.0,
+      "update_contact_info": 1.0,
+      "update_password": 0.0
+    }
+  },
+  {
+    "text": "update my phone to 7889100022.",
+    "intent": {
+      "track_package": 0.0,
+      "return_policy": 0.0,
+      "product_info": 0.0,
+      "update_contact_info": 1.0,
+      "update_password": 0.0
+    }
+  },
+    {
+    "text": "Reset my password. My username is john_doe.",
+    "intent": {
+      "track_package": 0.0,
+      "return_policy": 0.0,
+      "product_info": 0.0,
+      "update_contact_info": 0.0,
+      "update_password": 1.0
+    }
+  },
+  {
+    "text": "How Can I update my Password?.",
+    "intent": {
+      "track_package": 0.0,
+      "return_policy": 0.0,
+      "product_info": 0.0,
+      "update_contact_info": 0.0,
+      "update_password": 1.0
+    }
+  },
+  {
+    "text": "I forgot my password. Please help me reset it.",
+    "intent": {
+      "track_package": 0.0,
+      "return_policy": 0.0,
+      "product_info": 0.0,
+      "update_contact_info": 0.0,
+      "update_password": 1.0
+    }
+  },
+  {
+    "text": "I want to update my password for my account.",
+    "intent": {
+      "track_package": 0.0,
+      "return_policy": 0.0,
+      "product_info": 0.0,
+      "update_contact_info": 0.0,
+      "update_password": 1.0
+    }
+  },
+  {
+    "text": "Help me reset my password for my account.",
+    "intent": {
+      "track_package": 0.0,
+      "return_policy": 0.0,
+      "product_info": 0.0,
+      "update_contact_info": 0.0,
+      "update_password": 1.0
+    }
+  },
+  {
+    "text": "I need to update my password, please guide me.",
+    "intent": {
+      "track_package": 0.0,
+      "return_policy": 0.0,
+      "product_info": 0.0,
+      "update_contact_info": 0.0,
+      "update_password": 1.0
+    }
+  },
+  {
+    "text": "I want password reset process.",
+    "intent": {
+      "track_package": 0.0,
+      "return_policy": 0.0,
+      "product_info": 0.0,
+      "update_contact_info": 0.0,
+      "update_password": 1.0
+    }
+  },
+  {
+    "text": "I forgot my login password.",
+    "intent": {
+      "track_package": 0.0,
+      "return_policy": 0.0,
+      "product_info": 0.0,
+      "update_contact_info": 0.0,
+      "update_password": 1.0
+    }
+  }
+]
+
