@@ -1,0 +1,5 @@
+Front End Implementation Steps:
+#1 Create index.html
+#2 Create styles.css file for index.html
+#3 Java Script file to integrate Front end and Fast API
+#4 Update Front end folder structure in main.py

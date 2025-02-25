@@ -1,0 +1,101 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9; /* Light gray background for the entire page */
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.chat-container {
+    width: 90%;
+    max-width: 1000px;
+    background-color: #fff; /* White background for the chat container */
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    height: 900px;
+}
+
+.chat-header {
+    background-color: #6d1d8e; /* Purple background for the header */
+    color: #fff;
+    padding: 15px;
+    text-align: center;
+}
+
+.chat-box {
+    flex: 1;
+    padding: 15px;
+    overflow-y: auto; /* Enable vertical scrolling */
+    border-bottom: 1px solid #ddd;
+    background-color: #fff; /* White background for the message area */
+}
+
+.message {
+    margin-bottom: 10px;
+}
+
+.user-message {
+    background-color: #053680;
+    color: #fff;
+    padding: 10px;
+    border-radius: 10px 10px 0 10px;
+    margin-left: auto;
+    max-width: 60%;
+    text-align: right;
+}
+
+.bot-message {
+    background-color: #cedadb;
+    color: #333;
+    padding: 10px;
+    border-radius: 10px 10px 10px 0;
+    margin-right: auto;
+    max-width: 70%;
+    text-align: left;
+}
+
+.chat-input {
+    display: flex;
+    padding: 10px;
+    background-color: #fff; /* White background for the input area */
+    border-top: 1px solid #ddd; /* Add a border to separate input area */
+}
+
+#user-input {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    outline: none;
+    width: 100%;
+    background-color: #fff; /* White background for the input field */
+}
+
+#send-btn {
+    background-color: #6d1d8e; /* Purple background for the send button */
+    color: #fff;
+    border: none;
+    padding: 10px 15px;
+    margin-left: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#send-btn:hover {
+    background-color: #5a166f; /* Darker purple on hover */
+}
+#welcome-message {
+    border: 2px solid red; /* Add a red border for visibility */
+}
+
+#chat-box > div {
+    padding: 10px;
+    border-bottom: 1px solid #eee;
+    margin-bottom: 10px;
+}
